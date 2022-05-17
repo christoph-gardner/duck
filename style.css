@@ -162,3 +162,9 @@ body.appLab .screen * {
   box-shadow:orange .25rem 1rem .25rem;
 }
 
+form{
+  background:blue;
+  padding:.5in;
+  margin:.25in;
+  border:1rem blue solid;
+}
